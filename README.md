@@ -8,8 +8,10 @@ Requires Softlayer API Library
 ---------------------------------------------------
 https://github.com/softlayer/softlayer-java
 
+<pre>
 <dependency>
     <groupId>com.softlayer.api</groupId>
     <artifactId>softlayer-api-client</artifactId>
     <version>0.2.2</version>
 </dependency>
+</pre>
